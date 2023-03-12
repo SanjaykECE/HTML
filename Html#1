@@ -1,0 +1,46 @@
+Create a folder for project
+Add folder to the text editor
+Create new file with extension html
+Tags are used to create a webpage the way we want to look
+<!DOCTYPE html>  -> refers to the type of the document
+<html>  -> starting tag
+</html> -> ending tag
+Every code is placed between the starting and ending tag
+<head>   -> starting of head tag
+</head>  ->ending of the head tag
+head tag is defines the attribute of the file
+<body>   -> starting of body tag
+</body>  ->ending of body tag
+<title>  ->holds title of the website
+<p>     ->paragraph tag
+<b>     ->It describes the given text in Bold
+<i>     -> It describes the given text in Italics 
+<br/>   ->It gives a space between the lines 
+<hr/>   ->A new line comes between 
+<big>   -> Font increases in size
+<small> ->Font decreases in size
+<sub>   ->It converts the text in subscript
+<sup>   ->It converts the text in superscript
+<!--    ->Comment starting
+-->     ->Comment ending
+<header>   ->header part of the website
+<main>   ->middle or the main section 
+<footer>   ->footer part mostly contains navigation links
+<nav>   ->contains links
+<article>   ->has the article part
+<section>   ->diverse the parts
+<aside>   ->used for the side or not main parts 
+
+
+TO ADD LINKS:
+<a href="link">   ->Link navigates in the same tab
+<a herd=>   ->
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact
