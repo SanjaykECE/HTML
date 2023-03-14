@@ -66,3 +66,23 @@ Tables:
 <span>   -> can keep elements in same line
 <block>   -> can keep elements in next line and are block elements
 
+INPUT:
+<input type="text" />   ->gets input as text
+<input type="password" />   ->gets input as password
+<input type="text" value="Enter Your Username"/>   ->gets input as text with default value already present
+<textarea>   ->types text in differnet sizes of area
+<textarea rows="10" columns="20">   ->gives size
+<input type="date"/>
+<input type="email"/>
+<input type="range"/>
+<input type="file"/>
+<input type="checkbox"/>
+ <input type="radio"/>
+ <input name="btn" type="date"/>   ->can select only one at a time if same name is given to 2
+ <input type="submit"/>
+ 
+ <form> ->acts as wrapper for other tags
+ <iframe src="link" framebroader="0">   ->displays what is in the link inside the website
+ <meta name="viewport" content="width=device-width,initial-scale=1.0">
+ 
+ 
