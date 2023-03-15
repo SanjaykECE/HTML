@@ -6,21 +6,22 @@
     <title>document of Queries</title>
     </head>
      <body>
-      <h1> Hii! this is <b>Sanjay</b>here to ask your quieres </h1>
-      <form>
-        <label for="name">
-        <input type="name"/>
-       </label>
-        <label for="email">
-          <input type="email"/>
-          </label>
-          <label for="your message">
-          <input type="text" />
-          </label>
+      <h1><i>Hii!</i> This is <b>Sanjay </b>here to ask your quieres </h1>
+      <form action="mail to:sanjay.k2021ecec@sece.ac.in" method="post">
+        <label for="">name</label>
+        <input type="text" value=""/>
+       <div>
+        <label for="">email</label>
+          <input type="email" value=""/>
+       </div>
+       <div>
+          <label for=""> msg  </label>
+          <input type="text" textarea row="10" cols="30">
+       </div>
+          <hr>
+          <input type="date" />
+          <hr>
+          <input type="submit"/>
       </form>
-      
-
-
-
     </body>
     </html> 
