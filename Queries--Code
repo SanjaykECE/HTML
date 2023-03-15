@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang ="en">
+    <head>
+    <meta charset="UTF-8">
+    <meta name="viewpoint" content = "width=device-width,initial-scale=1.0">
+    <title>document of Queries</title>
+    </head>
+     <body>
+      <h1> Hii! this is <b>Sanjay</b>here to ask your quieres </h1>
+      <form>
+        <label for="name">
+        <input type="name"/>
+       </label>
+        <label for="email">
+          <input type="email"/>
+          </label>
+          <label for="your message">
+          <input type="text" />
+          </label>
+      </form>
+      
+
+
+
+    </body>
+    </html> 
